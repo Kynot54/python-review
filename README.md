@@ -1,6 +1,8 @@
 # Python Review Table of Contents
 
-# Order of Python Modules when Looking Back over It:
+- Official Documentation and DSA Review in Python
+
+## Order of Python Modules when Looking Back over It:
 
 1. operators.py
 2. print.py
