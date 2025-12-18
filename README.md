@@ -1,6 +1,6 @@
 # Python Review Table of Contents
 
-- Official Documentation and DSA Review in Python
+- Official Documentation and Review of Python
 
 ## Order of Python Modules when Looking Back over It:
 
